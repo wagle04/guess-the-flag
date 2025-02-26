@@ -1,0 +1,11 @@
+.grainy-text {
+    color: transparent;
+    text-shadow:
+            1px 1px 3px rgba(0, 0, 0, 0.05),
+            -1px -1px 3px rgba(0, 0, 0, 0.05),
+            2px 2px 5px rgba(0, 0, 0, 0.03),
+            -2px -2px 5px rgba(0, 0, 0, 0.03),
+            3px 3px 7px rgba(0, 0, 0, 0.02),
+            -3px -3px 7px rgba(0, 0, 0, 0.02);
+    filter: blur(5px) contrast(100%);
+}
