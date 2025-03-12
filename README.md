@@ -27,9 +27,11 @@ A fun and interactive game where users guess the country based on its flag color
 
    ```sh
    npm install
+   
  3. Start the app:
    ```sh
    npm start
+
 
 ## 📝 How to Play?
 
