@@ -25,11 +25,11 @@ A fun and interactive game where users guess the country based on its flag color
 
 2. To get started with the app, run the following command to install all necessary dependencies:
 
-```sh
-npm install
+   ```sh
+   npm install
  3. Start the app:
-```sh
-npm start
+   ```sh
+   npm start
 
 ## 📝 How to Play?
 
