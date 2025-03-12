@@ -32,7 +32,6 @@ A fun and interactive game where users guess the country based on its flag color
    ```sh
    npm start
 
-
 ## 📝 How to Play?
 
 - Type a country's name in the input box.
